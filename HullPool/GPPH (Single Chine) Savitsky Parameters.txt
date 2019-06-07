@@ -1,0 +1,17 @@
+General Purpose Planing Hull (GPPH) - Single Chine Variant
+Standard earth gravity
+Standard ITTC viscocity and density (Salt Water)
+
+b -> 3.526m
+B -> 17.21deg
+V -> 14028kg
+
+TV -> -0.5m
+TL -> -0.5m
+e -> 0deg
+
+LCG -> 4.59m
+VCG -> 0.807m
+
+72.6195339; // Total Hull Volume - m^3
+Max Thrust -> 25000N(5620.224 lbf)
